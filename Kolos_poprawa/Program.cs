@@ -1,4 +1,6 @@
+using Kolos_poprawa.Models;
 using Microsoft.EntityFrameworkCore;
+using static Kolos_poprawa.Services.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 

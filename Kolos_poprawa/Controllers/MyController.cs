@@ -25,5 +25,14 @@ namespace Kolos_poprawa.Controllers
         {
             return Ok();
         }*/
+
+/*      [HttpDelete] -usuniecie
+        [HttpPost] - dodanie
+        [HttpPut] - aktualizacja
+        public IActionResult Add/Delete/Update()
+        {
+            return Ok();
+        }
+*/
     }
 }

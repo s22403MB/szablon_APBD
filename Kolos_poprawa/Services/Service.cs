@@ -1,4 +1,5 @@
 ﻿using Kolos_poprawa.Models;
+using Kolos_poprawa.Models.DTO;
 using Microsoft.EntityFrameworkCore;
 using System.Runtime.CompilerServices;
 
